@@ -1,0 +1,11 @@
+
+.head{
+    width: 100%;
+    font-size: 20px;
+    margin-top: 0px;
+}
+.button{
+    background-color: rgb(255, 129, 129);
+    float: right;
+    font-weight: bolder;
+}
